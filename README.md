@@ -9,4 +9,4 @@ In this assingment I struggled figuring out how to implement a timer to function
 ![js test](https://user-images.githubusercontent.com/119081622/235556416-6a56493a-bc39-4b71-a2e0-af2391a86ba6.png)
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://seangibbons730.github.io/git-github.com-seangibbons730-Very-Fun-JS-Quiz/).
